@@ -1,0 +1,65 @@
+<svg width="1400" height="920" viewBox="0 0 1400 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="920" fill="#F2EFEA"/>
+
+  <rect x="0" y="0" width="1400" height="60" fill="#F2EFEA"/>
+  <text x="118" y="42" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-style="italic" fill="#1B1715">GlowMatch</text>
+  <text x="1040" y="42" font-family="Arial, sans-serif" font-size="17" letter-spacing="3" fill="#5D4F49">BUILT ON YOUCAM API • SKIN AI + APPAREL VTO</text>
+
+  <g transform="translate(0,0)">
+    <text x="104" y="200" font-family="Arial, sans-serif" font-size="19" letter-spacing="4" fill="#C88663">ONE PHOTO • YOUR SKIN • YOUR CULTURE • YOUR FIT</text>
+
+    <text x="100" y="360" font-family="Georgia, 'Times New Roman', serif" font-size="180" font-weight="600" fill="#1C1917" letter-spacing="-7">See yourself</text>
+    <text x="99" y="520" font-family="Georgia, 'Times New Roman', serif" font-size="178" font-weight="600" fill="#D8876A" letter-spacing="-7">styled, before</text>
+    <text x="100" y="700" font-family="Georgia, 'Times New Roman', serif" font-size="170" font-weight="600" fill="#1C1917" letter-spacing="-7">you buy a thread.</text>
+
+    <text x="100" y="780" font-family="Arial, sans-serif" font-size="31" fill="#4A403A">Upload one photo. GlowMatch reads your skin tone and</text>
+    <text x="100" y="820" font-family="Arial, sans-serif" font-size="31" fill="#4A403A">body shape, curates outfits and makeup tuned to your</text>
+    <text x="100" y="860" font-family="Arial, sans-serif" font-size="31" fill="#4A403A">culture and your climate — then renders you, not a</text>
+    <text x="100" y="900" font-family="Arial, sans-serif" font-size="31" fill="#4A403A">stand-in model, trying it on in full 3D.</text>
+  </g>
+
+  <g transform="translate(760,90)">
+    <rect x="0" y="0" width="520" height="670" rx="38" fill="#E5DED1" stroke="#D6CCBF" stroke-width="2"/>
+    <rect x="22" y="18" width="476" height="40" rx="20" fill="#EFE6DA"/>
+    <circle cx="54" cy="38" r="7" fill="#D79A76"/>
+    <circle cx="82" cy="38" r="7" fill="#E0B99E"/>
+    <circle cx="110" cy="38" r="7" fill="#C9C0B2"/>
+
+    <text x="388" y="47" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#6B5F57">DRAG TO SPIN</text>
+
+    <rect x="50" y="90" width="420" height="420" rx="0" fill="#F3E9DF"/>
+
+    <g transform="translate(155,130)">
+      <ellipse cx="120" cy="180" rx="120" ry="140" fill="#F2D4BF"/>
+      <path d="M79 189C85 148 96 102 121 82C145 102 157 148 162 189L170 295H68L79 189Z" fill="#1B1716"/>
+      <path d="M62 248C90 216 105 194 121 194C138 194 153 217 176 248L164 446H76L62 248Z" fill="#171314"/>
+      <path d="M78 262L52 446H118L130 265L78 262Z" fill="#171314"/>
+      <path d="M164 262L192 446H130L120 262L164 262Z" fill="#171314"/>
+      <path d="M105 200L72 155L65 120L92 110L112 142L105 200Z" fill="#201C1B"/>
+      <path d="M138 200L171 155L176 120L149 110L130 142L138 200Z" fill="#201C1B"/>
+      <path d="M75 165C90 160 102 164 118 169C130 174 136 174 149 169C165 163 177 161 193 165L183 87C166 78 146 76 123 76C99 76 81 79 66 89L75 165Z" fill="#241E1C"/>
+      <path d="M87 186C93 169 103 162 122 160C136 158 151 165 158 176C150 188 140 196 120 196C106 196 94 191 87 186Z" fill="#F5D1B7"/>
+      <path d="M88 194C91 229 100 264 121 298C141 263 150 228 154 194H88Z" fill="#F6D8C5" opacity="0.6"/>
+      <path d="M91 230C98 246 108 257 121 267C134 257 144 246 151 230L158 316C148 343 136 357 122 364C108 357 96 343 86 316L91 230Z" fill="#F2C7A8" opacity="0.75"/>
+      <path d="M92 292C104 310 108 318 120 331C132 317 136 310 149 292C141 354 134 385 120 421C107 385 98 354 92 292Z" fill="#F2C7A8" opacity="0.5"/>
+      <path d="M78 266L54 314L78 325L95 290L78 266Z" fill="#F7D3C0"/>
+      <path d="M167 266L190 314L167 325L150 290L167 266Z" fill="#F7D3C0"/>
+      <path d="M45 298L71 420L90 421L86 319L45 298Z" fill="#E8B496"/>
+      <path d="M196 298L170 420L151 421L155 319L196 298Z" fill="#E8B496"/>
+      <path d="M87 420L100 448L123 448L130 422L87 420Z" fill="#EAB299"/>
+      <path d="M156 420L143 448L120 448L113 422L156 420Z" fill="#EAB299"/>
+    </g>
+
+    <rect x="58" y="540" width="404" height="92" rx="14" fill="#F7F2ED"/>
+    <text x="92" y="586" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#251F1D">Charcoal tailored set</text>
+    <text x="354" y="586" font-family="Arial, sans-serif" font-size="18" fill="#6C615B">WORK</text>
+    <text x="340" y="616" font-family="Arial, sans-serif" font-size="22" fill="#7D9A68">91% match</text>
+  </g>
+
+  <g transform="translate(102,900)">
+    <rect x="0" y="0" width="310" height="76" rx="38" fill="#1A1717"/>
+    <text x="62" y="48" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FDF7F3">Upload your photo →</text>
+  </g>
+
+  <text x="460" y="953" font-family="Arial, sans-serif" font-size="23" fill="#5C4A42">no signup • ~90 seconds</text>
+</svg>

@@ -1,5 +1,7 @@
 # GlowMatch
 
+![GlowMatch product hero](docs/glowmatch-hero.svg)
+
 GlowMatch is a personalized fashion and beauty recommender that helps shoppers discover outfit and makeup choices based on their real features, cultural context, weather, and occasion. A user uploads a photo, the app reads their skin profile, matches body shape and style preferences, and recommends looks that are more likely to fit, flatter, and feel authentic to their identity.
 
 This project is designed to turn a generic shopping experience into a more trusted, retail-ready decision support tool for fashion, beauty, and outfit discovery.
